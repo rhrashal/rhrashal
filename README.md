@@ -15,7 +15,7 @@
    <img src="https://img.shields.io/badge/-@rhrashal-%23181717?style=flat-square&logo=leetcode" />
  </a>
   <a href="https://fb.com/rhrashal" alt="Robiul's facebook">
-   <img src="https://img.shields.io/badge/-@rhrashal-%231DA1F2?style=flat-square&logo=facebook&logoColor=ffffff" />
+   <img src="https://img.shields.io/badge/-@rhrashal-%231DA1F2?style=flat-square&logo=facebook" />
  </a>
  <a>
    <img src="https://komarev.com/ghpvc/?username=rhrashal&color=ff69b4&style=flat-square" />

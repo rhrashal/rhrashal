@@ -17,15 +17,16 @@
 </p>
 
 
+<p align="center"> 
+     - 📫 How to reach me **rhrashal@gmail.com**
+</p>
+<p align="center"> 
+    - 📄 Know about my experiences [rhrashal.com](rhrashal.com)
+</p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rhrashal&label=Profile%20views&color=0e75b6&style=flat" alt="rhrashal" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rhrashal" target="blank"><img src="https://img.shields.io/twitter/follow/rhrashal?logo=twitter&style=for-the-badge" alt="rhrashal" /></a> </p>
 
-- 📫 How to reach me **rhrashal@gmail.com**
-
-- 📄 Know about my experiences [rhrashal.com](rhrashal.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

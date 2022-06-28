@@ -1,5 +1,23 @@
 <h1 align="center">Hi there, I'm Robiul Hossain 👋</h1>
-<h3 align="center">Software Engineer</h3>
+
+
+<p align="center"> 
+ <a href="https://twitter.com/rhrashal" alt="Robiul's twitter">
+   <img src="https://img.shields.io/badge/-@rhrashal-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff" />
+ </a>
+ <a href="https://github.com/rhrashal" alt="Robiul's github">
+   <img src="https://img.shields.io/badge/-@rhrashal-%23181717?style=flat-square&logo=github" />
+ </a>
+ <a href="https://www.linkedin.com/in/rhrashal" alt="Robiul's linkedin">
+   <img src="https://img.shields.io/badge/-rhrashal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rhrashal" />
+ </a>
+ <a>
+   <img src="https://komarev.com/ghpvc/?username=rhrashal&color=ff69b4&style=flat-square" />
+ </a>
+</p>
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhrashal&label=Profile%20views&color=0e75b6&style=flat" alt="rhrashal" /> </p>
 

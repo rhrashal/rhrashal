@@ -17,16 +17,6 @@
 </p>
 
 
-<p align="center"> 
-     - 📫 How to reach me **rhrashal@gmail.com**
-</p>
-<p align="center"> 
-    - 📄 Know about my experiences [rhrashal.com](rhrashal.com)
-</p>
-
-
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -72,3 +62,6 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhrashal&show_icons=true&locale=en" alt="rhrashal" /></p>
 
+- 📫 How to reach me **rhrashal@gmail.com**
+- 
+- 📄 Know about my experiences [rhrashal.com](rhrashal.com)

@@ -69,5 +69,5 @@
 </p>
 <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhrashal&show_icons=true&locale=en" alt="rhrashal" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhrashal&show_icons=true&locale=en" alt="rhrashal" /></p>
 

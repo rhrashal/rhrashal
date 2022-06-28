@@ -60,19 +60,11 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px">
   </a>
 </p>
-<br/>
-
-
-
-<p float="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhrashal&layout=compact&hide=html" alt="rhrashal" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rhrashal&show_icons=true&locale=en" alt="rhrashal" />
-</p>
-
 
 <br/>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhrashal&layout=compact&hide=html" alt="rhrashal" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhrashal&show_icons=true&locale=en" alt="rhrashal" /></p>
+
 
 - 📫 How to reach me **rhrashal@gmail.com**
 - 📄 Know about my experiences [rhrashal.com](rhrashal.com)

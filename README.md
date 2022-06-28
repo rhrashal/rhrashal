@@ -61,7 +61,7 @@
   </a>
 </p>
 <br/>
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhrashal&layout=compact&hide=html" alt="rhrashal" /></div>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhrashal&layout=compact&hide=html" alt="rhrashal" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhrashal&show_icons=true&locale=en" alt="rhrashal" /></p>
 
 - 📫 How to reach me **rhrashal@gmail.com**

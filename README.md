@@ -65,5 +65,4 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhrashal&show_icons=true&locale=en" alt="rhrashal" /></p>
 
 - 📫 How to reach me **rhrashal@gmail.com**
-- 
 - 📄 Know about my experiences [rhrashal.com](rhrashal.com)

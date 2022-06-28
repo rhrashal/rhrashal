@@ -62,14 +62,14 @@
 </p>
 <br/>
 
-<div align="center">
- <span>
-   <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhrashal&layout=compact&hide=html" alt="rhrashal" /></p>
- </span>
- <span>
-   <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhrashal&show_icons=true&locale=en" alt="rhrashal" /></p>
- </span>
-</div>
+
+
+<p float="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhrashal&layout=compact&hide=html" alt="rhrashal" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rhrashal&show_icons=true&locale=en" alt="rhrashal" />
+</p>
+
+
 <br/>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhrashal&layout=compact&hide=html" alt="rhrashal" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rhrashal&show_icons=true&locale=en" alt="rhrashal" /></p>
